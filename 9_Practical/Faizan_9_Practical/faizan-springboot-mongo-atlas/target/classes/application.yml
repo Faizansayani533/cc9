@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@faizansayani.dk0al.mongodb.net/?retryWrites=true&w=majority&appName=faizansayani
+      database: Task
